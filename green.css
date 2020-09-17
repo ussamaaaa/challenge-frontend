@@ -1,0 +1,72 @@
+*{
+  
+    box-sizing: border-box;
+}
+header{
+background-image:url(img/logo.png) ;
+background-repeat: no-repeat;
+width: 100%;
+background-position-y: center;
+height: 160px;
+border: solid 1px black;
+background-color: rgb(142, 197, 13);
+}
+
+.div1{
+font-size: 1.3em;
+margin-top: 80px;
+margin-left: 650px;
+}
+.div1 a{
+    margin-right: 70px;
+}
+
+.who{
+    width: 300px;
+    float: left; 
+}
+
+main{
+    font-size: 1.3em;
+    width: 95%;
+     
+    
+
+}
+#first-title{
+    margin-top: 70px;
+    color: lawngreen;
+}
+button{
+    width: 120px;
+    height: 50px;
+    background-color: rgb(142, 197, 13);
+    border-style: none;
+    float: right;
+    margin-top: 60px;
+}
+.what{
+    width: 300px;
+    float: left;
+}
+.div2{
+    margin-top: 40px;
+}
+#second-title{
+    margin-top: 200px;
+    color: lawngreen;
+}
+.div3{
+    margin-top: 40px;
+
+}
+UL{
+    margin-top: 40px;
+}
+ul li{
+margin-left: 80px;
+
+}
+@media screen and (min-width: 1024px){
+    
+}
